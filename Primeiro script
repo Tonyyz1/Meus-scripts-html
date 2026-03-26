@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+     <head>
+	<title>Apenas um teste.</title>
+     </head>
+    <body>
+	<h1>Um pouco sobre minha vida.</h1>
+	
+	<p>Meu nome é Antonio, sou uma pessoa mais chegada pra TI, desde criança isso sempre foi minha paixao, agora estou realizando meu sonho de trabalhar com isso.</p>
+	
+	
+	<h2>Coisas que gosto de fazer</h2>
+	
+	<p>Eu basicamente gosto de treinar, estudar, trabalhar, usar um pouco o computador no geral, etc.</p>
+	
+	
+	<h2>Um pouco sobre minha familia.</h2>
+	
+	<p>Minha familia é algo que sempre tive orgulho, otimos pais, me ensinaram bem, me educaram muito bem, um otimo irmão. Enfim, uma familia muito boa que me apoia.</p>
+    </body>
+</html>
