@@ -1,0 +1,27 @@
+<body>
+<h2>Notas do Fábio nos dois ultimos semestres.</h2>
+<table width="30%" border="1">
+<thead>
+<tr>
+<th>Fábio</th>
+<th>Notas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1º semestre</td>
+<td>30</td>
+</tr>
+<tr>
+<td>2º semestre</td>
+<td>40</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<th>Total</th>
+<th>70</th>
+</tr>
+</tfoot>
+</table>
+</body>
